@@ -1,0 +1,25 @@
+*{margin: 0}
+header{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    background-color: #9EA087;
+}
+footer{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+h2{
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
