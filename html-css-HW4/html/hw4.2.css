@@ -1,0 +1,117 @@
+*{margin: 0}
+header{
+    height: 100vh;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.box{
+    height: 80vh;
+    width: 35vw;
+    background-color: #ffffff;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgba(150, 150, 150, 0.5);
+}
+img{
+    margin-top: 50px;
+    height: 140px;
+    width: 300px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.box-1{
+    background-color: #ffffff;
+    height: 10vh;
+    width: 35vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(150, 150, 150, 0.5);
+    font-size: 20px;
+}
+
+input[type="email"]{
+    height: 50px;
+    width: 400px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+    background-color: #ffffff;
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+input[type="password"] {
+    height: 50px;
+    width: 400px;
+    margin-bottom: 5px;
+    background-color: #ffffff;
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+input[type="email"]::placeholder{
+    font-size: 18px;
+}
+input[type="password"]::placeholder{
+    font-size: 18px;
+}
+button{
+    margin-top: 20px;
+    border: 1px solid #71a4f3;
+    border-radius: 10px;
+    width: 414px;
+    height: 40px;
+    background-color: #71a4f3;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    margin-top: 40px;
+    color: #757575;
+}
+.img-1{
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+}
+.link{
+    margin-top: 10px;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+
+}
+a{
+    text-decoration: none;
+}
+h2{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #1750ab;
+}
+h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+
+}
+h4{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: #4881e3;
+
+
+}
+h5{
+    margin-top: 40px;
+    font-size: 25px;
+    color: #1750ab;
+}
