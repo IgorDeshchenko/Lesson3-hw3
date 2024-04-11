@@ -1,0 +1,26 @@
+body{
+    font-family: "KoHo", sans-serif;
+    font-weight: bold;
+}
+
+div#block-1>ul.block-1>li:nth-child(even){
+    color: pink;
+}
+
+div#block-2>ul.block-2>li:nth-child(odd){
+    font-size: 22px;
+}
+
+div#block-3>ul.block-3>li:nth-child(2n+4):after{
+    content:"!";
+}
+
+div#block-4>ul.block-4>li:nth-child(12){
+    color: purple;
+}
+
+div#block-5>ul.block-5>li::first-letter{
+    font-size: 30px;
+    color: red;
+}
+
