@@ -1,0 +1,37 @@
+@media screen and (max-width: 620px){
+    header{
+        height: 15vh;
+    }
+    main{
+        display: table;
+    }
+    .F{
+        height: 15vh;
+        width: 100vw;
+    }
+    .B{
+        height: 30vh;
+        width: 100vw;
+    }
+    .box-2{
+        height: 20vh;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .C{
+        height: 15vh;
+        width: 30vw;
+    }
+    .D{
+        height: 15vh;
+        width: 30vw;
+    }
+    .E{
+        height: 15vh;
+        width: 30vw;
+    }
+
+
+}

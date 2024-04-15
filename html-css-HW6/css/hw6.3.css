@@ -1,0 +1,78 @@
+*{margin: 0}
+
+header{
+    height: 30vh;
+    background-color: #A5A5A3;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box-1{
+    height: 100%;
+    width: 100%;
+}
+.box-2{
+    height: 30vh;
+    width: 81vw;
+    display: flex;
+
+}
+.B{
+    height: 30vh;
+    width: 80.5vw;
+    background-color: #A5A5A3;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.C{
+    height: 30vh;
+    width: 30vw;
+    background-color: #A5A5A3;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.D{
+    height: 30vh;
+    width: 30vw;
+    background-color: #A5A5A3;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.E{
+    height: 30vh;
+    width: 30vw;
+    background-color: #A5A5A3;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.F{
+    height: 61vh;
+    width: 30vw;
+    background-color: #A5A5A3;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+main{
+    display: flex;
+}
